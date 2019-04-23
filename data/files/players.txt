@@ -1,0 +1,768 @@
+NAME|BORN|COUNTRY|TEST_COUNT|ODI_COUNT|T20_COUNT
+Aamer Yamin|26/06/1990|Pakistan|0|4|2
+Aamir Kaleem|20/11/1981|Oman|0|0|13
+Aarif Sheikh|05/10/1997|Nepal|0|6|1
+Abbas Saad|01/06/1986|Saudi Arabia|0|0|2
+Abbott, K J|18/06/1987|South Africa|11|28|21
+Abdul Shakoor|15/03/1985|United Arab Emirates|0|3|4
+Abdul Wahid|01/01/1986|Saudi Arabia|0|0|5
+Abdur Razzak|15/06/1982|Bangladesh|13|153|34
+Abu Hider|14/02/1996|Bangladesh|0|2|13
+Abu Jayed|02/08/1993|Bangladesh|5|0|3
+Abul Hasan|05/08/1992|Bangladesh|3|7|5
+Adil Hanif|25/02/1978|Bahrain|0|0|4
+Adnan Mufti|30/12/1984|United Arab Emirates|0|18|1
+Afif Hossain|22/09/1999|Bangladesh|0|0|1
+Afsar Zazai|10/08/1993|Afghanistan|1|17|1
+Aftab Alam|30/11/1992|Afghanistan|0|21|12
+Agar, A C|14/10/1993|Australia|4|9|15
+Agarwal, M A|16/02/1991|India|2|0|0
+Ahmed, K K||India|0|8|9
+Ahmed Hassan|01/07/1989|Maldives|0|0|4
+Ahmed Raza|10/10/1988|United Arab Emirates|0|25|22
+Ahmed Shehzad|23/11/1991|Pakistan|13|81|57
+Ahsan Malik|29/08/1989|Netherlands|0|12|31
+Airee, D S|24/01/2000|Nepal|0|6|4
+Aizaz Khan|21/03/1993|Hong Kong|0|19|23
+Al-Amin Hossain|01/01/1990|Bangladesh|6|14|25
+Ali, M M||England|58|92|25
+Allen, F A|07/05/1995|West Indies|0|4|9
+Ambris, S W|23/03/1993|West Indies|6|1|0
+Ameel Mauroof|18/08/1992|Maldives|0|0|4
+Amini, C J A|14/04/1992|Papua New Guinea|0|6|6
+Amir Hamza|15/08/1991|Afghanistan|0|31|31
+Amir Hayat|01/01/1998|United Arab Emirates|0|9|4
+Amjad Gul|01/01/1990|United Arab Emirates|0|0|4
+Amjad Javed|05/07/1980|United Arab Emirates|0|15|22
+Amla, H M|31/03/1983|South Africa|124|174|44
+Ammad Uddin|23/04/1976|Bahrain|0|0|4
+Anamul Haque|16/12/1992|Bangladesh|4|37|13
+Anasim Khan|12/03/1979|Bahrain|0|0|4
+Anderson, C J|13/12/1990|New Zealand|13|49|31
+Anderson, J|06/10/1982|Ireland|0|8|4
+Anderson, J M|30/07/1982|England|148|194|19
+Ansari, Z S|10/12/1991|England|3|1|0
+Anshuman Rath|05/11/1997|Hong Kong|0|18|20
+Aponso, M A|23/06/1993|Sri Lanka|0|9|3
+Aqib Ilyas|05/09/1992|Oman|0|0|9
+Arafat Sunny|29/09/1986|Bangladesh|0|16|10
+Ariful Haque|18/11/1992|Bangladesh|2|1|9
+Asad Shafiq|28/01/1986|Pakistan|69|60|10
+Asghar Afghan|22/12/1987|Afghanistan|1|99|59
+Ashfaq Ahmed|01/01/1998|United Arab Emirates|0|12|4
+Ashwin, R|17/09/1986|India|65|111|46
+Asif Ali|01/10/1991|Pakistan|0|11|19
+Astle, T D|24/09/1986|New Zealand|4|9|2
+Atif Ali Khan|11/02/1986|United Arab Emirates|0|0|1
+Atkinson , J J|23/08/1990|Hong Kong|0|9|13
+Awais Malik|23/10/1982|Qatar|0|0|5
+Azhar Ali|19/02/1985|Pakistan|73|53|0
+Babar Ali|01/06/1977|Bahrain|0|0|3
+Babar Azam|15/10/1994|Pakistan|21|59|29
+Babar Hayat|05/01/1992|Hong Kong|0|22|24
+Badree, S|09/03/1981|West Indies|0|0|52
+Bailey, G J|07/09/1982|Australia|5|90|30
+Bairstow, J M||England|63|59|30
+Balbirnie, A|28/12/1990|Ireland|1|55|22
+Ball, J T|14/03/1991|England|4|18|2
+Ballance, G S|22/11/1989|England|23|16|0
+Bancroft, C T|19/11/1992|Australia|8|0|1
+Bandara, K M C|22/05/1987|Sri Lanka|0|1|1
+Barresi, W|03/05/1984|Netherlands|0|30|40
+Bau, D|05/12/1994|Papua New Guinea|0|10|1
+Bau, S|23/06/1992|Papua New Guinea|0|16|6
+Bavuma, T|17/05/1990|South Africa|36|2|0
+Beaton, R R|17/09/1992|West Indies|0|2|0
+Behardien, F|09/10/1983|South Africa|0|59|38
+Behrendorff, J P||Australia|0|4|7
+Bennett, H K|22/02/1987|New Zealand|1|16|0
+Berrington, R D|03/04/1987|Scotland|0|70|49
+Bess, D M|22/07/1997|England|2|0|0
+Bhandari, L S|22/07/1996|Nepal|0|1|0
+Bilal Asif|24/09/1985|Pakistan|5|3|0
+Bilal Khan|10/04/1988|Oman|0|0|19
+Billings, S W|15/06/1991|England|0|15|21
+Binny, S T R||India|6|14|3
+Bird, J M|11/12/1986|Australia|9|0|0
+Bishoo, D|06/11/1985|West Indies|36|42|7
+Blackwood, J|20/11/1991|West Indies|27|2|0
+Blundell, T A|01/09/1990|New Zealand|2|0|3
+Boland, S M|11/04/1989|Australia|0|14|3
+Borren, P W|21/08/1983|Netherlands|0|58|43
+Boult, T A|22/07/1989|New Zealand|61|79|25
+Bracewell, D A J|28/09/1990|New Zealand|27|19|18
+Brathwaite, C R||West Indies|3|33|38
+Brathwaite, K C|01/12/1992|West Indies|56|10|0
+Bravo, D J J|07/10/1983|West Indies|40|164|66
+Bravo, D M|06/02/1989|West Indies|52|102|20
+Broad, S C J|24/06/1986|England|126|121|56
+Broom, N T|20/11/1983|New Zealand|2|39|11
+Brownlie, D G|30/07/1984|New Zealand|14|16|5
+Bruce, T C|02/08/1991|New Zealand|0|0|14
+Budge, D E|11/09/1995|Scotland|0|1|6
+Bumrah, J J||India|10|49|42
+Burl, R P|15/04/1994|Zimbabwe|1|13|4
+Burns, J A|06/09/1989|Australia|16|6|0
+Burns, R J|16/08/1990|England|6|0|0
+Buttler, J C||England|31|127|66
+Cameron, S J|24/09/1996|Scotland|0|2|0
+Cameron-Dow, J|18/05/1990|Ireland|0|4|0
+Campbell, J D|21/09/1993|West Indies|3|5|1
+Carey, A T|27/08/1991|Australia|0|14|19
+Carter, C|09/09/1997|Hong Kong|0|11|10
+Carter, J L|16/11/1987|West Indies|0|28|0
+Cartwright, H W R|14/02/1992|Australia|2|2|0
+Chahal, Y S||India|0|41|31
+Chahar, D L|07/08/1992|India|0|1|1
+Chakabva, R W|20/09/1987|Zimbabwe|14|34|5
+Chameera, P V D|11/01/1992|Sri Lanka|8|23|19
+Chandimal, L D|18/11/1989|Sri Lanka|53|146|54
+Chandrika, R|08/08/1989|West Indies|5|0|0
+Chapman, M S|27/06/1994|New Zealand|0|5|24
+Chari, B B|14/02/1992|Zimbabwe|7|10|0
+Charles, J|14/01/1989|West Indies|0|48|34
+Chase, P K D|09/10/1993|Ireland|0|25|12
+Chase, R L|22/03/1992|West Indies|29|11|0
+Chatara, T L|28/02/1991|Zimbabwe|9|62|13
+Chibhabha, C J|06/09/1986|Zimbabwe|3|103|33
+Chigumbura, E|14/03/1986|Zimbabwe|14|213|53
+Chinouya, M T|09/06/1986|Zimbabwe|2|2|0
+Chirag Suri|18/02/1995|United Arab Emirates|0|8|1
+Chisoro, T S|12/02/1988|Zimbabwe|1|18|12
+Christian, D T|04/05/1983|Australia|0|19|16
+Christie, K|20/04/1993|Hong Kong|0|1|0
+Cloete, G L|04/10/1992|South Africa|0|0|2
+Coetzer, K J|14/04/1984|Scotland|0|50|48
+Compton, N R D|26/06/1983|England|16|0|0
+Cook, S C|29/11/1982|South Africa|11|0|0
+Cooper, B N|10/02/1992|Netherlands|0|6|32
+Cottrell, S S|19/08/1989|West Indies|2|10|13
+Coulter-Nile, N M||Australia|0|24|28
+Craig, M D|23/03/1987|New Zealand|15|0|0
+Crane, M S|18/02/1997|England|1|0|2
+Cremer, A G|19/09/1986|Zimbabwe|19|96|29
+Cross, M H|15/10/1992|Scotland|0|43|32
+Cummins, M L|05/09/1990|West Indies|13|11|0
+Cummins, P J|08/05/1993|Australia|20|47|20
+Curran, S M|03/06/1998|England|9|2|0
+Curran, T K|12/03/1995|England|2|13|10
+Cutting, B C J||Australia|0|4|7
+Dai, M D|30/05/1984|Papua New Guinea|0|18|9
+Dala, C J|29/12/1989|South Africa|0|2|8
+Dananjaya, A|04/10/1993|Sri Lanka|5|33|16
+Davey, J H|03/08/1990|Scotland|0|29|14
+Dawlat Zadran|19/03/1988|Afghanistan|0|74|31
+Dawson, L A|01/03/1990|England|3|3|6
+de Bruyn, T B|08/10/1992|South Africa|9|0|2
+de Grandhomme, C||New Zealand|17|28|25
+de Kock, Q||South Africa|40|105|35
+de Lange, C D|11/02/1981|Scotland|0|13|8
+de Leede, B F W|15/10/1999|Netherlands|0|2|4
+de Silva, D M|06/09/1991|Sri Lanka|25|31|10
+de Silva, P C|17/01/1990|Sri Lanka|0|7|2
+de Silva, P W H|29/07/1997|Sri Lanka|0|9|0
+de Silva, S T|16/12/1993|Sri Lanka|0|0|3
+Denly, J L||England|2|9|9
+Devcich, A P|28/09/1985|New Zealand|0|12|4
+Dhawan, R|19/02/1990|India|0|3|2
+Dhawan, S|05/12/1985|India|34|128|49
+Dhoni, M S|07/07/1981|India|90|341|98
+Dickwella, N|23/06/1993|Sri Lanka|31|52|15
+Dockrell, G H|22/07/1992|Ireland|0|82|60
+Dorriga, K|18/10/1995|Papua New Guinea|0|5|0
+Dowrich, S O|30/10/1991|West Indies|30|0|0
+du Plessis, F|13/07/1984|South Africa|58|133|43
+Duckett, B M|17/10/1994|England|4|3|0
+Duminy, J-P|14/04/1984|South Africa|46|193|78
+Dunk, B R|11/03/1987|Australia|0|0|5
+Ebadot Hossain|07/01/1994|Bangladesh|2|0|0
+Edwards, S|23/08/1996|Netherlands|0|2|7
+Ehsan Khan|27/12/1984|Hong Kong|0|15|4
+Ehsan Nawaz|21/03/1995|Hong Kong|0|12|5
+Elgar, D|11/06/1987|South Africa|56|8|0
+Embuldeniya, L|26/10/1996|Sri Lanka|2|0|0
+Emrit, R R|08/03/1981|West Indies|0|2|4
+Eranga, R M S|23/06/1986|Sri Lanka|19|19|3
+Ervine, C R|19/08/1985|Zimbabwe|15|84|16
+Evans, A C|12/01/1989|Scotland|0|31|20
+Faheem Ashraf|16/01/1994|Pakistan|4|18|25
+Faisal Javed|20/02/1975|Qatar|0|0|5
+Faisal Khan|02/11/1996|Saudi Arabia|0|0|4
+Fakhar Zaman|10/04/1990|Pakistan|3|31|29
+Fareed Ahmad|10/08/1994|Afghanistan|0|5|11
+Faulkner, J P|29/04/1990|Australia|1|69|24
+Fayyaz Ahmed|12/05/1983|United Arab Emirates|0|3|1
+Fazal, F Y|07/09/1985|India|0|1|0
+Fazle Mahmud|30/12/1987|Bangladesh|0|2|0
+Ferguson, C J|21/11/1984|Australia|1|30|3
+Ferguson, L H||New Zealand|0|27|5
+Fernando, A M|31/07/1997|Sri Lanka|0|1|0
+Fernando, B O P|15/04/1992|Sri Lanka|2|4|0
+Fernando, M V T|18/09/1991|Sri Lanka|5|8|1
+Fernando, W I A|05/04/1998|Sri Lanka|0|4|0
+Fiaz Ahmad|05/03/1986|Kuwait|0|0|3
+Fiaz Ahmed|20/12/1987|Bahrain|0|0|4
+Finch, A J|17/11/1986|Australia|5|104|52
+Finn, S T|04/04/1989|England|36|69|21
+Fletcher, A D S|28/11/1987|West Indies|0|25|42
+Foakes, B T|15/02/1993|England|5|0|0
+Frylinck, R|27/09/1984|South Africa|0|0|3
+Gabriel, S T|28/04/1988|West Indies|43|18|2
+Gamage, P L S|05/04/1988|Sri Lanka|5|9|0
+Gauchan, S P|22/04/1984|Nepal|0|1|9
+Gavera, W T|18/08/1988|Papua New Guinea|0|4|6
+Gayle, C H|21/09/1979|West Indies|103|289|58
+Getkate, S C|02/10/1991|Ireland|0|0|6
+Ghulam Shabber|01/01/1990|United Arab Emirates|0|19|12
+Gulbadin Naib|16/03/1991|Afghanistan|0|52|38
+Gunaratne, D A S|08/01/1986|Sri Lanka|6|31|12
+Gunathilaka, M D|17/03/1991|Sri Lanka|8|36|15
+Guptill, M J||New Zealand|47|169|76
+Hales, A D|03/01/1989|England|11|70|60
+Hameed, H|17/01/1997|England|3|0|0
+Hamid Hassan|01/06/1987|Afghanistan|0|32|22
+Hamoud Amanullah|24/12/2001|Kuwait|0|0|2
+Hamza Tahir|09/12/1995|Scotland|0|0|3
+Handscomb, P S P|26/04/1991|Australia|16|16|2
+Haris Sohail|09/01/1989|Pakistan|10|26|9
+Harris, M S|21/07/1992|Australia|6|0|0
+Hasan Ali|07/02/1994|Pakistan|9|44|29
+Hashmatullah Shahidi|04/11/1994|Afghanistan|1|28|1
+Hassan Rasheed|09/03/1993|Maldives|0|0|4
+Hastings, J W|04/11/1985|Australia|1|29|9
+Hazlewood, J R|08/01/1991|Australia|44|44|7
+Hazratullah Zazai|23/03/1998|Afghanistan|0|6|6
+Head, T M|29/12/1993|Australia|8|42|16
+Heazlett, S D|12/09/1995|Australia|0|1|0
+Hemraj, C|03/09/1993|West Indies|0|6|0
+Hendricks, B E|08/06/1990|South Africa|0|2|10
+Hendricks, R R|14/08/1989|South Africa|0|18|17
+Henriques, M C|01/02/1987|Australia|4|11|11
+Henry, M J|14/12/1991|New Zealand|10|43|6
+Hetmeyer, S O||West Indies|13|25|11
+Hiri, H|01/05/1995|Papua New Guinea|0|3|2
+Holder, J O|05/11/1991|West Indies|37|90|11
+Holland, J M|29/05/1987|Australia|4|0|0
+Hope, K A|20/11/1988|West Indies|5|7|0
+Hope, S D|10/11/1993|West Indies|29|49|12
+Hussain Talat|12/02/1996|Pakistan|0|1|14
+Ibrahim Hassan|21/04/1991|Maldives|0|0|4
+Ibrahim Khan|15/04/1980|Saudi Arabia|0|0|1
+Ibrahim Nashath|04/08/1995|Maldives|0|0|3
+Ibrahim Rizan|30/08/1986|Maldives|0|0|2
+Ibrarul Haq|27/07/1988|Saudi Arabia|0|0|5
+Iftikhar Ahmed|03/09/1990|Pakistan|1|2|1
+Ihsanullah|28/12/1997|Afghanistan|0|16|0
+Ikram Ali Khil|29/09/2000|Afghanistan|0|2|0
+Imad Wasim|18/12/1988|Pakistan|0|36|34
+Imam-ul-Haq|12/12/1995|Pakistan|10|21|0
+Imran Ali|31/10/1980|Kuwait|0|0|4
+Imran Ali Butt|20/01/1986|Bahrain|0|0|4
+Imran Anwar|24/10/1989|Bahrain|0|0|4
+Imran Haider|01/01/1990|United Arab Emirates|0|16|9
+Imran Khan|15/07/1988|Pakistan|9|0|0
+Imran Tahir|27/03/1979|South Africa|20|97|37
+Imrul Kayes|02/02/1987|Bangladesh|37|78|14
+Inam-ul-Haq|07/01/1979|Qatar|0|0|5
+Iqbal Hussain|14/01/1989|Qatar|0|0|5
+Iyer, S S|06/12/1994|India|0|6|6
+Jadeja, R A|06/12/1988|India|41|151|40
+Jadhav, K M|26/03/1985|India|0|59|9
+Jarvis, K M|16/02/1989|Zimbabwe|12|40|14
+Jatinder Singh|03/03/1989|Oman|0|0|14
+Javed Ahmadi|02/01/1992|Afghanistan|1|42|3
+Jayasuriya, G S N F G|12/09/1991|Sri Lanka|0|9|11
+Jayasuriya, N G R P|05/11/1991|Sri Lanka|0|2|0
+Jennings, K K|19/06/1992|England|17|0|0
+Jones, M A|05/01/1998|Scotland|0|5|0
+Jonker, C|24/09/1986|South Africa|0|2|2
+Jora, S|20/10/2001|Nepal|0|1|3
+Jordan, C J|04/10/1988|England|8|31|38
+Joseph, A S|20/11/1996|West Indies|9|16|0
+Joyce, E C|22/09/1978|Ireland|1|78|18
+Junaid Khan|24/12/1989|Pakistan|22|71|9
+Kaleemullah|24/12/1990|Oman|0|0|4
+Kamran Khan|29/09/1988|Qatar|0|0|5
+Kamrul Islam Rabbi|10/12/1991|Bangladesh|7|0|0
+Kamunhukamwe, T S|10/07/1995|Zimbabwe|0|2|0
+Kane, T E|08/07/1994|Ireland|1|0|6
+Kapugedera, C K|24/02/1987|Sri Lanka|8|102|43
+Karan KC|10/10/1991|Nepal|0|5|9
+Karim Janat|11/08/1998|Afghanistan|0|1|16
+Karim Sadiq|18/02/1984|Afghanistan|0|24|36
+Karthik, K D|01/06/1985|India|26|91|32
+Karunaratne, F D M|21/04/1988|Sri Lanka|60|17|0
+Kaul, S||India|0|3|3
+Khadka, P|24/10/1987|Nepal|0|6|15
+Khakurel, S P|07/04/1993|Nepal|0|2|8
+Khaled Ahmed|20/09/1992|Bangladesh|2|0|0
+Khalid Latif|04/11/1985|Pakistan|0|5|13
+Khawaja, U T|18/12/1986|Australia|41|26|9
+Khawar Ali|20/12/1985|Oman|0|0|16
+Khurram Nawaz|30/01/1986|Oman|0|0|7
+Kila, J|15/01/1990|Papua New Guinea|0|2|0
+Kitchen, A K|21/02/1984|New Zealand|0|0|5
+Klaasen, H||South Africa|0|14|9
+Klaassen, F J|13/11/1992|Netherlands|0|2|8
+Kohli, V||India|77|227|67
+Krishna Chandran|24/08/1984|United Arab Emirates|0|12|0
+Kuggeleijn, S C|03/01/1992|New Zealand|0|2|4
+Kuhn, H G|01/04/1984|South Africa|4|0|7
+Kulasekara, K M D N|22/07/1982|Sri Lanka|21|184|58
+Kuldeep Yadav||India|6|44|18
+Kulkarni, D S||India|0|12|2
+Kumar, B||India|21|105|37
+Kumara, C B R L S|13/02/1997|Sri Lanka|15|8|1
+Kumaranayaka, U K P W|13/04/1993|Kuwait|0|0|3
+Labuschagne, M|22/06/1994|Australia|5|0|0
+Lakmal, R A S|10/03/1987|Sri Lanka|57|81|10
+Lalcheta, A V|22/10/1983|Oman|0|0|17
+Lamichhane, S|02/08/2000|ICC World XI|0|6|5
+Latham, T W M|02/04/1992|New Zealand|43|85|13
+Leach, M J|22/06/1991|England|4|0|0
+Leask, M A|29/10/1990|Scotland|0|30|23
+Lewis, E||West Indies|0|35|20
+Lewis, S H|21/10/1995|West Indies|2|0|0
+Liton Das|13/10/1994|Bangladesh|15|27|18
+Little, J B|01/11/1999|Ireland|0|0|10
+Livingstone, L S||England|0|0|2
+Lynn, C A||Australia|0|4|18
+Lyon, N M|20/11/1987|Australia|86|20|2
+MacLeod, C S|15/11/1988|Scotland|0|57|37
+Maddinson, N J|21/12/1991|Australia|3|0|6
+Madushanka, D S K|10/04/1995|Sri Lanka|0|1|2
+Madushanka, L D|12/09/1992|Sri Lanka|0|4|0
+Madziva, N|02/08/1991|Zimbabwe|0|12|9
+Maharaj, K A|07/02/1990|South Africa|25|4|0
+Maharoof, M F|07/09/1984|Sri Lanka|22|109|8
+Mahedi Hasan|12/12/1994|Bangladesh|0|0|1
+Mahmudullah|04/02/1986|Bangladesh|45|171|76
+Makesh, A|04/08/1991|Kuwait|0|0|4
+Malan, D J|03/09/1987|England|15|0|5
+Malinga, S L||Sri Lanka|30|217|70
+Malla, G|16/09/1990|Nepal|0|6|15
+Mandeep Singh|18/12/1991|India|0|0|3
+Markande, M||India|0|0|1
+Markram, A K|04/10/1994|South Africa|17|17|0
+Marsh, M R|20/10/1991|Australia|31|53|11
+Marsh, S E|09/07/1983|Australia|38|66|15
+Maruma, T|19/04/1988|Zimbabwe|1|17|10
+Masakadza, H|09/08/1983|Zimbabwe|38|204|58
+Masakadza, W P|04/10/1993|Zimbabwe|1|17|9
+Mashrafe Mortaza|05/10/1983|Bangladesh|36|205|54
+Masvaure, P S|07/10/1988|Zimbabwe|2|2|0
+Mathews, A D|02/06/1987|Sri Lanka|80|203|72
+Mavuta, B A|04/03/1997|Zimbabwe|2|5|3
+Mawoyo, T M K|08/01/1986|Zimbabwe|11|7|0
+Maxwell, G J|14/10/1988|Australia|7|95|59
+McAuslan, C|01/06/1998|Hong Kong|0|2|0
+McBrine, A R|30/04/1993|Ireland|0|37|19
+McCarthy, A M|08/06/1987|West Indies|0|0|1
+McCarthy, B J|13/09/1992|Ireland|0|24|6
+McClenaghan, M J||New Zealand|0|48|29
+McCollum, J A|01/08/1995|Ireland|0|1|0
+McCoy, O C|04/01/1997|West Indies|0|2|2
+McCullum, N L|01/09/1980|New Zealand|0|84|63
+McDermott, B R|12/12/1994|Australia|0|0|8
+McKechnie, S S|06/08/1991|Hong Kong|0|8|0
+Meet Bhavsar|23/06/2004|Kuwait|0|0|4
+Mehidy Hasan Miraz|25/10/1997|Bangladesh|19|25|13
+Mehran Khan|13/04/1987|Oman|0|0|15
+Mendis, B K G|02/02/1995|Sri Lanka|38|61|17
+Mendis, B M A J|15/01/1983|Sri Lanka|0|54|22
+Mendis, P H K|30/09/1998|Sri Lanka|0|2|1
+Mennie, J M|24/12/1988|Australia|1|2|0
+Mihusan Hamid|06/06/1991|Maldives|0|0|1
+Miller, D A|10/06/1989|South Africa|0|120|67
+Miller, N O|16/05/1982|West Indies|1|50|9
+Mills, T S|12/08/1992|England|0|0|5
+Milne, A F||New Zealand|0|40|21
+Mir Hamza|10/09/1992|Pakistan|1|0|0
+Mire, S F|21/08/1989|Zimbabwe|2|40|7
+Mirwais Ashraf|30/06/1988|Afghanistan|0|46|25
+Mishra, A|24/11/1982|India|22|36|10
+Mohamed Azzam|31/08/1991|Maldives|0|0|4
+Mohamed Mahfooz|09/07/1987|Maldives|0|0|4
+Mohamed Rishwan|25/11/1993|Maldives|0|0|4
+Mohammad Abbas|10/03/1990|Pakistan|14|0|0
+Mohammad Adnan|07/04/1984|Saudi Arabia|0|0|5
+Mohammad Amin|02/05/1987|Kuwait|0|0|4
+Mohammad Amir|13/04/1992|Pakistan|36|49|42
+Mohammad Boota|01/01/1998|United Arab Emirates|0|7|3
+Mohammad Hafeez|17/10/1980|Pakistan|55|208|89
+Mohammad Irfan|06/06/1982|Pakistan|4|60|20
+Mohammad Mithun|13/02/1990|Bangladesh|5|15|13
+Mohammad Nabi||Afghanistan|1|111|68
+Mohammad Nadeem|04/09/1982|Oman|0|0|9
+Mohammad Naveed|03/06/1987|United Arab Emirates|0|35|26
+Mohammad Nawaz|21/03/1994|Pakistan|3|14|16
+Mohammad Rizwan|01/06/1992|Pakistan|1|27|13
+Mohammad Saifuddin|01/11/1996|Bangladesh|0|10|9
+Mohammad Sami|24/02/1981|Pakistan|36|87|13
+Mohammad Shahzad|31/01/1988|Afghanistan|1|79|65
+Mohammad Shahzad|15/08/1979|United Arab Emirates|0|6|20
+Mohammed, J N|23/09/1986|West Indies|0|28|9
+Mohammed Asghar|29/08/1980|Kuwait|0|0|4
+Mohammed Nadeem|27/02/1983|Qatar|0|0|5
+Mohammed Qasim|03/08/1991|United Arab Emirates|0|5|3
+Mohammed Rizlan|24/07/1985|Qatar|0|0|5
+Mohammed Shami|09/03/1990|India|40|63|7
+Mohammed Siraj||India|0|1|3
+Mominul Haque|29/09/1991|Bangladesh|35|28|6
+Mommsen, P L|14/10/1987|Scotland|0|44|24
+Moor, P J|02/02/1991|Zimbabwe|8|42|16
+Morea, V V|13/03/1983|Papua New Guinea|0|13|5
+Morgan, E J G|10/09/1986|England|16|217|80
+Morris, C H|30/04/1987|South Africa|4|34|21
+Mosaddeck Hossain|10/12/1995|Bangladesh|2|24|8
+Mosehle, M|24/04/1990|South Africa|0|0|7
+Mpofu, C B|27/11/1985|Zimbabwe|15|80|24
+Muawiyath Ghanee|04/08/1989|Maldives|0|0|4
+Muhammad Hamayun|17/04/1987|Saudi Arabia|0|0|4
+Muhammad Kashif|22/10/1987|Kuwait|0|0|4
+Muhammad Nadeem|04/04/1990|Saudi Arabia|0|0|5
+Muhammad Naeem|04/09/1982|Saudi Arabia|0|0|5
+Muhammad Rafique|18/02/1989|Bahrain|0|0|2
+Muhammad Tanveer|01/02/1981|Qatar|0|0|5
+Muhammad Usman|13/10/1985|United Arab Emirates|0|23|22
+Muhammed Shanil|20/12/1988|United Arab Emirates|0|0|1
+Mujeeb Ur Rahman|28/03/2001|Afghanistan|1|28|9
+Mukund, A|06/01/1990|India|7|0|0
+Mulder, J|11/08/1995|Ireland|0|4|8
+Mulder, P W A|19/02/1998|South Africa|1|10|0
+Mumba, C T|06/05/1995|Zimbabwe|2|2|0
+Munaweera, E M D Y|24/04/1989|Sri Lanka|0|2|13
+Munro, C|11/03/1987|New Zealand|1|51|52
+Munsey, H G|21/02/1993|Scotland|0|16|26
+Murray, R C|30/03/1998|Zimbabwe|0|5|0
+Murtagh, T J|02/08/1981|Ireland|1|50|14
+Musakanda, T K|31/10/1994|Zimbabwe|1|15|6
+Mushfiqur Rahim|01/09/1988|Bangladesh|66|201|77
+Mustafizur Rahman|06/09/1995|Bangladesh|13|43|30
+Mutombodzi, T C|21/12/1990|Zimbabwe|0|11|5
+Mutumbami, R|11/06/1989|Zimbabwe|6|31|14
+Muzarabani, B|02/10/1996|Zimbabwe|1|18|6
+Muzarabani, T|27/03/1987|Zimbabwe|0|8|9
+Myburgh, S J|28/02/1984|Netherlands|0|13|30
+Nadeem Ahmed|28/09/1987|Hong Kong|0|25|24
+Nair, K K|06/12/1991|India|6|2|0
+Najeeb Tarakai|02/02/1991|Afghanistan|0|1|10
+Najibullah Zadran|28/02/1993|Afghanistan|0|54|50
+Nao, A|09/12/1993|Papua New Guinea|0|12|2
+Narine, S P||West Indies|6|65|48
+Naseem Khushi|11/08/1982|Oman|0|0|7
+Nasir Hossain|30/11/1991|Bangladesh|19|65|31
+Nasir Jamal|21/12/1993|Afghanistan|0|16|0
+Naveen -ul-Haq|23/09/1999|Afghanistan|0|2|0
+Nawazish Jezuli|14/11/2000|Saudi Arabia|0|0|1
+Nayeem Hasan|02/12/2000|Bangladesh|2|0|0
+Nazmul Hossain Shanto|25/05/1998|Bangladesh|2|3|0
+Nazmul Islam|21/03/1992|Bangladesh|1|5|13
+Neesham, J D S|17/09/1990|New Zealand|12|49|15
+Neill, A|22/03/1994|Scotland|0|0|1
+Neser, M G|29/03/1990|Australia|0|2|0
+Nevill, P M|13/10/1985|Australia|17|0|9
+Ngarava, R|28/12/1997|Zimbabwe|0|9|0
+Ngidi, L|29/03/1996|South Africa|4|17|7
+Nicholls, H M|15/11/1991|New Zealand|25|41|5
+Nizakat Khan|08/07/1992|Hong Kong|0|20|23
+Noor Ali Zadran|10/07/1988|Afghanistan|0|47|20
+Nortje, A||South Africa|0|3|0
+Nouman Sarwar|02/08/1984|Qatar|0|0|5
+Nurse, A R|22/12/1988|West Indies|0|45|13
+Nurul Hasan|21/11/1993|Bangladesh|3|2|9
+Nyumbu, J|31/05/1985|Zimbabwe|3|19|2
+O'Brien, K J|04/03/1984|Ireland|1|133|73
+O'Brien, N J|08/11/1981|Ireland|1|103|30
+O'Dowd, M P|04/03/1994|Netherlands|0|0|14
+O'Keefe, S N J|09/12/1984|Australia|9|0|7
+Olivier, D|09/05/1992|South Africa|10|2|0
+Overdijk, H C|29/04/1996|Netherlands|0|0|1
+Overton, C|10/04/1994|England|3|1|0
+Paine, T D|08/12/1984|Australia|21|35|12
+Pandey, M K||India|0|23|28
+Pandya, H H||India|11|45|38
+Pandya, K H||India|0|0|11
+Pant, R R|04/10/1997|India|9|5|15
+Panyangara, T|21/10/1985|Zimbabwe|9|65|14
+Parnell, W D|30/07/1989|South Africa|6|65|40
+Parvez Rasool|13/02/1989|India|0|1|1
+Patel, A R|20/01/1994|India|0|38|11
+Patel, A Y|21/10/1988|New Zealand|5|0|2
+Patel, J S|07/05/1980|New Zealand|24|43|11
+Patel, P A||India|25|38|2
+Paterson, D|04/04/1989|South Africa|0|4|8
+Pathirana, S S|21/03/1989|Sri Lanka|0|18|5
+Paudel, R K|02/09/2002|Nepal|0|4|1
+Paul, K M A|21/02/1998|West Indies|3|11|13
+Perera, A K|23/02/1990|Sri Lanka|0|4|2
+Perera, M D K|22/07/1982|Sri Lanka|38|13|3
+Perera, M D K J|17/08/1990|Sri Lanka|16|88|36
+Perera, N L T C|03/04/1989|Sri Lanka|6|152|76
+Perera, P A R P|02/05/1995|Sri Lanka|0|1|0
+Permaul, V|11/08/1989|West Indies|6|7|1
+Phangiso, A M|21/01/1984|South Africa|0|21|16
+Phehlukwayo, A L|03/03/1996|South Africa|4|42|19
+Philander, V D|24/06/1985|South Africa|58|30|7
+Phillips, G D|06/12/1996|New Zealand|0|0|11
+Piedt, D L|06/03/1990|South Africa|7|0|0
+Pierre, K|22/09/1991|West Indies|0|0|3
+Plunkett, L E|06/04/1985|England|13|78|22
+Pokana, N|12/04/1996|Papua New Guinea|0|5|3
+Pollard, K A|12/05/1987|West Indies|0|101|59
+Pooran, N|02/10/1995|West Indies|0|1|11
+Pope, O J D|02/01/1998|England|2|0|0
+Porterfield, W T S|06/09/1984|Ireland|1|127|61
+Poulose, A|22/07/1986|Oman|0|0|3
+Powell, K O A|06/03/1990|West Indies|40|46|1
+Powell, R|23/07/1993|West Indies|0|34|20
+Poynter, S W|18/10/1990|Ireland|0|21|25
+Pradeep, N|19/10/1986|Sri Lanka|28|34|9
+Prasanna, S|27/06/1985|Sri Lanka|1|40|20
+Pretorius, D|29/03/1989|South Africa|0|18|2
+Priyanjan, S M A|14/08/1989|Sri Lanka|0|23|3
+Pujara, C A|25/01/1988|India|68|5|0
+Pushpakumara, P M|24/03/1987|Sri Lanka|4|2|0
+Qadeer Ahmed|15/11/1985|United Arab Emirates|0|8|8
+Qasim Zia|21/01/1987|Bahrain|0|0|3
+Rabada, K|25/05/1995|South Africa|37|65|18
+Rahane, A M||India|56|90|20
+Rahat Ali|12/09/1988|Pakistan|21|14|0
+Rahmat Shah|06/07/1993|Afghanistan|1|58|0
+Rahul, K L|18/04/1992|India|34|14|27
+Raina, S K|27/11/1986|India|18|226|78
+Rajbanshi, L N|27/02/1999|Nepal|0|3|3
+Rajitha, C A K|01/06/1993|Sri Lanka|6|6|5
+Rambukwella, R L B|08/09/1991|Sri Lanka|0|0|2
+Ramdin, D|13/10/1985|West Indies|74|139|68
+Rameez Shahzad|30/11/1987|United Arab Emirates|0|15|9
+Rance, S H A|23/08/1987|New Zealand|0|2|5
+Randiv, S|30/01/1985|Sri Lanka|12|31|7
+Rankin, D A|02/08/1987|Ireland|0|0|3
+Rankin, W B|05/07/1984|Ireland|2|65|35
+Rashid, A U|17/02/1988|England|19|83|36
+Rashid Khan||Afghanistan|1|57|38
+Raval, J A|22/09/1988|New Zealand|18|0|0
+Ravu, D A|03/05/1994|Papua New Guinea|0|4|0
+Rayudu, A T|23/09/1985|India|0|55|6
+Regmi, B|06/04/1986|Nepal|0|4|13
+Reifer, R A|11/05/1991|West Indies|1|0|0
+Renshaw, M T|28/03/1996|Australia|11|0|0
+Reva, J B|23/09/1990|Papua New Guinea|0|9|6
+Richardson, J A|20/09/1996|Australia|2|10|9
+Richardson, K W|12/02/1991|Australia|0|18|9
+Rippon, M J|14/09/1991|Netherlands|0|6|18
+Roach, K A J|30/06/1988|West Indies|53|80|11
+Roche, L N|14/09/1999|Zimbabwe|0|3|0
+Rohan Mustafa|07/10/1988|United Arab Emirates|0|27|25
+Roland-Jones, T S|29/01/1988|England|4|1|0
+Ronchi, L|23/04/1981|New Zealand|4|85|33
+Root, J E|30/12/1990|England|80|126|31
+Rossouw, R R|09/10/1989|South Africa|0|36|15
+Roy, J J|21/07/1990|England|0|73|32
+Rubel Hossain|01/01/1990|Bangladesh|26|96|27
+Rumman Raees|18/10/1991|Pakistan|0|9|8
+Russell, A D||West Indies|1|52|47
+Rutherford, S E|15/08/1998|West Indies|0|0|1
+Sabbir Rahman|22/11/1991|Bangladesh|11|57|41
+Saeed, S|14/03/1996|Maldives|0|0|2
+Sagar Pun|01/03/1993|Nepal|0|1|9
+Sah, A K|17/11/1998|Nepal|0|2|1
+Saha, W P||India|32|9|0
+Sahibzada Farhan|06/03/1996|Pakistan|0|0|3
+Sajid Cheema|20/02/1980|Saudi Arabia|0|0|5
+Samarawickrama, S|30/08/1995|Sri Lanka|4|6|6
+Sami Aslam|12/12/1995|Pakistan|13|4|0
+Samiullah Shinwari|31/12/1987|Afghanistan|0|81|62
+Samuels, M N|05/02/1981|West Indies|71|207|67
+Sandakan, P A D L R|10/06/1991|Sri Lanka|11|20|6
+Sandaruwan, R|22/06/1992|Kuwait|0|0|4
+Sanjaya, J R M V B|10/02/1992|Sri Lanka|0|0|8
+Santner, M J|05/02/1992|New Zealand|17|59|31
+Saqib Zulfiqar|28/03/1997|Netherlands|0|0|2
+Saqlain Haider|10/08/1987|United Arab Emirates|0|5|6
+Saqlain Sajib|01/12/1988|Bangladesh|0|0|1
+Sarfaraz Ali|20/10/1981|Bahrain|0|0|4
+Sarfraz Ahmed|22/05/1987|Pakistan|49|101|54
+Sarwar, M M|29/10/1997|Kuwait|0|0|4
+Sayed Shirzad|01/10/1994|Afghanistan|0|1|4
+Sayers, C J|31/08/1987|Australia|1|0|0
+Seelaar, P M|02/07/1987|Netherlands|0|39|47
+Seifert, T L|14/12/1994|New Zealand|0|3|11
+Senanayake, S M S M|09/02/1985|Sri Lanka|1|49|24
+Shabir Noori|22/02/1992|Afghanistan|0|10|1
+Shadab Khan|04/10/1998|Pakistan|5|34|32
+Shadman Islam|18/05/1995|Bangladesh|3|0|0
+Shafiqullah|07/08/1989|Afghanistan|0|24|44
+Shafiul Islam|06/10/1989|Bangladesh|11|56|12
+Shah, K D|09/12/1995|Hong Kong|0|10|15
+Shahbaz Badar|15/09/1991|Bahrain|0|0|3
+Shaheen Shah Afridi|06/04/2000|Pakistan|3|10|9
+Shahid Wasif|15/05/1997|Hong Kong|0|10|4
+Shaiman Anwar|15/03/1979|United Arab Emirates|0|36|30
+Shakib Al Hasan||Bangladesh|55|195|72
+Shamsi, T|18/02/1990|South Africa|2|15|12
+Shamsudheen Purat|13/09/1989|Saudi Arabia|0|0|3
+Shan Masood|14/10/1989|Pakistan|15|0|0
+Shanaka, M D|09/09/1991|Sri Lanka|3|19|27
+Shankar, V||India|0|9|9
+Shannon, J N K|12/02/1990|Ireland|0|1|8
+Shapoor Zadran|01/01/1985|Afghanistan|0|44|34
+Sharafuddin Ashraf|10/01/1995|Afghanistan|0|14|8
+Sharif, S M|24/05/1991|Scotland|0|36|32
+Sharjeel Khan|14/08/1989|Pakistan|1|25|15
+Sharma, I|02/09/1988|India|90|80|14
+Sharma, R G||India|27|206|94
+Shaw, P P|09/11/1999|India|2|0|0
+Sheeli, D|20/11/1990|Kuwait|0|0|3
+Shoaib Ali|03/05/1988|Saudi Arabia|0|0|5
+Shoaib Malik|01/02/1982|Pakistan|35|279|111
+Short, D J M|09/08/1990|Australia|0|4|20
+Shubman Gill||India|0|2|0
+Shuvagata Hom|11/11/1986|Bangladesh|8|4|5
+Siaka, L|21/12/1992|Papua New Guinea|0|16|9
+Sibanda, V|10/10/1983|Zimbabwe|14|127|26
+Siddle, P M|25/11/1984|Australia|64|20|2
+Sikandar Raza|24/04/1986|Zimbabwe|12|88|28
+Sikander Zulfiqar|28/03/1997|Netherlands|0|0|7
+Silva, A R S|17/11/1988|Sri Lanka|12|0|0
+Silva, J K|27/05/1986|Sri Lanka|39|0|0
+Simandeep Singh|20/06/1995|Hong Kong|0|1|0
+Simi Singh|04/02/1987|Ireland|0|15|14
+Simmons, L M P|25/01/1985|West Indies|8|68|45
+Singh, V A|12/01/1989|West Indies|3|0|0
+Siriwardana, T A M|04/12/1985|Sri Lanka|5|26|22
+Smith, D S|21/10/1981|West Indies|43|47|6
+Smith, O F|01/11/1996|West Indies|0|0|2
+Smith, R A J|05/08/1994|Scotland|0|2|2
+Smith, S P D||Australia|64|108|30
+Smuts, J T|21/09/1988|South Africa|0|0|8
+Snater, S|24/03/1996|Netherlands|0|2|6
+Sodhi, I S||New Zealand|17|30|33
+Sohail Khan|06/03/1984|Pakistan|9|13|5
+Sohail Tanvir|12/12/1984|Pakistan|2|62|57
+Sole, C B|27/02/1994|Scotland|0|8|4
+Sole, T B|21/06/1996|Scotland|0|8|0
+Somerville, W E R|09/08/1984|New Zealand|1|0|0
+Sompal Kami|02/02/1996|Nepal|0|6|15
+Soper, C A|19/11/1991|Papua New Guinea|0|12|5
+Sorensen, M C|18/11/1985|Ireland|0|13|26
+Soumya Sarkar|25/02/1993|Bangladesh|14|41|41
+Southee, T G||New Zealand|65|139|58
+Sran, B B||India|0|6|2
+Sreekumar, L|15/05/1987|United Arab Emirates|0|4|1
+Stanlake, B||Australia|0|7|17
+Starc, M A|30/01/1990|Australia|51|75|23
+Steyn, D W|27/06/1983|South Africa|93|125|42
+Stirling, P R|03/09/1990|Ireland|1|105|58
+Stoinis, M P||Australia|0|28|19
+Stokes, B A||England|52|79|23
+Stone, O P|09/10/1993|England|0|4|0
+Stoneman, M D|26/06/1987|England|11|0|0
+Subashis Roy|29/11/1988|Bangladesh|4|1|0
+Sufyan Mehmood|21/10/1991|Oman|0|0|3
+Sultan Ahmed|18/06/1977|Oman|0|0|17
+Sultan Ahmed|11/10/1989|United Arab Emirates|0|0|5
+Sunzamul Islam|17/01/1990|Bangladesh|1|3|0
+Swepson, M J|04/10/1993|Australia|0|0|1
+Tahir Dar|17/03/1975|Bahrain|0|0|4
+Taijul Islam|07/02/1992|Bangladesh|24|4|0
+Tamim Iqbal|20/03/1989|Bangladesh|58|189|75
+Tamoor Sajjad|22/01/1992|Qatar|0|0|5
+Tanbir Hayder|05/12/1991|Bangladesh|0|2|0
+Tanveer Ahmed|18/09/1997|Hong Kong|0|6|5
+Tanwir Afzal|12/06/1988|Hong Kong|0|20|21
+Taskin Ahmed|03/04/1995|Bangladesh|5|32|19
+Taylor, B R M|06/02/1986|Zimbabwe|28|188|30
+Taylor, L R P L|08/03/1984|New Zealand|92|218|88
+ten Doeschate, R N|30/06/1980|Netherlands|0|33|13
+ter Braak, D J|27/02/1991|Netherlands|0|2|0
+Terry, S P|01/08/1991|Ireland|0|5|1
+Thakur, S N|16/10/1991|India|1|5|7
+Tharanga, W U|02/02/1985|Sri Lanka|31|234|26
+Thirimanne, H D R L|08/09/1989|Sri Lanka|33|117|26
+Thomas, O R||West Indies|0|9|7
+Thompson, G J|17/09/1987|Ireland|0|3|8
+Thompson, S R|15/08/1991|Ireland|1|20|31
+Tickner, B M|13/10/1993|New Zealand|0|0|1
+Tiripano, D T|17/03/1988|Zimbabwe|7|24|9
+Topley, R J W|21/02/1994|England|0|10|6
+Tremain, C P|10/08/1991|Australia|0|4|0
+Tucker, L|10/09/1996|Ireland|0|0|7
+Turner, A J||Australia|0|3|5
+Tye, A J|12/12/1986|Australia|0|7|26
+Udana, I|17/02/1988|Sri Lanka|0|4|18
+Umar Adam|08/12/1997|Maldives|0|0|4
+Umar Akmal|26/05/1990|Pakistan|16|116|82
+Umar Amin|16/10/1989|Pakistan|4|16|14
+Umar Gul|14/04/1984|Pakistan|47|130|60
+Unadkat, J D||India|1|7|10
+Ura, T P|15/10/1989|Papua New Guinea|0|17|6
+Usman Ali|03/10/1987|Saudi Arabia|0|0|5
+Usman Ghani|20/11/1996|Afghanistan|0|15|19
+Usman Shinwari|05/01/1994|Pakistan|0|12|15
+Vala, A|05/08/1987|Papua New Guinea|0|18|9
+van der Dussen, H E|07/02/1989|South Africa|0|8|5
+van der Gugten, T|25/02/1991|Netherlands|0|4|29
+van Meekeren, P A|29/08/1989|Netherlands|0|4|25
+van Zyl, S|19/09/1987|South Africa|12|0|0
+Vandersay, J D F|05/02/1990|Sri Lanka|0|11|7
+Vanua, N|02/12/1993|Papua New Guinea|0|14|9
+Vare, J N T|14/02/1986|Papua New Guinea|0|9|8
+Vesawkar, S|06/10/1988|Nepal|0|1|11
+Vihari, G H|13/10/1993|India|4|0|0
+Vijay, M|01/04/1984|India|61|17|9
+Vince, J M|14/03/1991|England|13|6|7
+Visee, T P|21/01/1991|Netherlands|0|0|12
+Vitori, B V|22/02/1990|Zimbabwe|4|24|11
+Wade, M S|26/12/1987|Australia|22|94|26
+Wafadar|01/02/2000|Afghanistan|1|0|0
+Wagner, N|13/03/1986|New Zealand|42|0|0
+Wahab Riaz|28/06/1985|Pakistan|27|79|27
+Wallace, C D|27/06/1990|Scotland|0|22|14
+Waller, M N|28/09/1984|Zimbabwe|14|79|31
+Walton, C A K|03/07/1985|West Indies|2|9|19
+Waqas Barkat|17/02/1990|Hong Kong|0|10|11
+Waqas Khan|10/03/1999|Hong Kong|0|8|8
+Waqas Maqsood|04/11/1987|Pakistan|0|0|1
+Warner, D A||Australia|74|106|70
+Warrican, J A|20/05/1992|West Indies|7|0|0
+Washington Sundar||India|0|1|7
+Wasim Ali|07/12/1998|Oman|0|0|1
+Watling, B J|09/07/1985|New Zealand|61|28|5
+Watt, M R J|29/07/1996|Scotland|0|18|26
+Weerakkody, D S|03/09/1993|Sri Lanka|0|3|0
+Westley, T|13/03/1989|England|5|0|0
+Wheal, B T J|28/08/1996|Scotland|0|11|5
+Wheeler, B M|10/11/1991|New Zealand|0|6|6
+White, C L|18/08/1983|Australia|4|91|47
+Whittingham, S G|10/02/1994|Scotland|0|4|3
+Wiese, D|18/05/1985|South Africa|0|6|20
+Wildermuth, J D|01/09/1993|Australia|0|0|2
+Willey, D J|28/03/1990|England|0|42|27
+Williams, K O K|17/01/1990|West Indies|0|8|18
+Williams, S C|26/09/1986|Zimbabwe|10|122|26
+Williamson, K S||New Zealand|72|139|57
+Wilson, G C|05/02/1986|Ireland|1|99|61
+Woakes, C R|02/03/1989|England|26|84|8
+Wood, M A|11/01/1990|England|13|40|5
+Worker, G H|23/08/1989|New Zealand|0|10|2
+Worrall, D J|10/07/1991|Australia|0|3|0
+Yadav, J|22/01/1990|India|4|1|0
+Yadav, U T||India|41|75|7
+Yamin Ahmadzai|25/07/1992|Afghanistan|1|3|2
+Yasir Idrees|26/07/1987|Kuwait|0|0|1
+Yasir Shah|02/05/1986|Pakistan|35|19|2
+Young, C A|04/04/1990|Ireland|0|13|16
+Yuvraj Singh||India|40|304|58
+Zaheer Ibrahim|02/04/1988|Qatar|0|0|5
+Zahir Khan|20/12/1998|Afghanistan|0|1|0
+Zahoor Khan|25/05/1989|United Arab Emirates|0|12|7
+Zakir Hasan|01/12/1972|Bangladesh|0|2|1
+Zampa, A|31/03/1992|Australia|0|39|22
+Zeeshan Abbas|11/08/1995|Bahrain|0|0|1
+Zeeshan Maqsood|24/10/1987|Oman|0|0|16
+Zhuwawo, C|15/12/1984|Zimbabwe|0|9|7
+Ziaur Rahman|17/10/1998|Afghanistan|0|0|1
+Zondo, K|07/03/1990|South Africa|0|5|0
+Zulfiqar Babar|10/12/1978|Pakistan|15|5|7

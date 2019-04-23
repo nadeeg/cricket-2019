@@ -1,0 +1,13 @@
+Year,No of teams,Host 1,Host 2,Host 3, Afghanistan, Australia, Bangladesh, Bermuda, Canada, England, India, Ireland, Kenya, Namibia, Netherlands, New Zealand, Pakistan, Scotland, South Africa, Sri Lanka, United Arab Emirates, West Indies, Zimbabwe
+1975,8,England,,,,RU,,,,SF,GP,,,,,SF,GP,,,GP,,W,
+1979,8,England,,,,GP,,,GP,RU,GP,,,,,SF,SF,,,GP,,W,
+1983,8,England,,,,GP,,,,SF,W,,,,,GP,SF,,,GP,,RU,GP
+1987,8,India,Pakistan,,,W,,,,RU,SF,,,,,GP,SF,,,GP,,GP,GP
+1992,9,Australia,New Zealand,,,GP,,,,RU,GP,,,,,SF,W,,SF,GP,,GP,GP
+1996,12,India,Pakistan,Sri Lanka,,RU,,,,QF,SF,,GP,,GP,QF,QF,,QF,W,GP,SF,GP
+1999,12,England,,,,W,GP,,,GP,S6,,GP,,,SF,RU,GP,SF,GP,,GP,S6
+2003,14,South Africa,,,,W,GP,,GP,GP,RU,,SF,GP,GP,S6,GP,,GP,SF,,GP,S6
+2007,16,West Indies,,,,W,S8,GP,GP,S8,GP,S8,GP,,GP,SF,GP,GP,SF,RU,,S8,GP
+2011,14,India,Sri Lanka,Bangladesh,,QF,GP,,GP,QF,W,GP,GP,,GP,SF,SF,,QF,RU,,QF,GP
+2015,14,Australia,New Zealand,,GP,W,QF,,,GP,SF,GP,,,,RU,QF,GP,SF,QF,GP,QF,GP
+2019,10,England,Wales,,Q,Q,Q,,,Q,Q,,,,,Q,Q,,Q,Q,,Q,
