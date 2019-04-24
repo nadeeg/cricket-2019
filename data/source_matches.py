@@ -3,7 +3,6 @@ import requests
 import pandas
 import os
 
-#from config import proxies
 from bs4 import BeautifulSoup
 
 # %%

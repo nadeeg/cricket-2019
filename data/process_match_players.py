@@ -28,15 +28,6 @@ for key, df_match in sorted(dd.items()):
         stats[row.PLAYER_ID] += 1
 
 # %%
-        
-columns = [
-        'DATE',
-        'COUNTRIES',
-        'GROUND',
-        'TEAM',
-        'PLAYER_NAME',
-        'PLAYER_ID']
-
 if not os.path.exists('files'):
     os.mkdir('files')
 

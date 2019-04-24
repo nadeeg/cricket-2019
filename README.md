@@ -1,5 +1,14 @@
 ## Getting Started
 
+1. Goto data/ directory
+2. Run source_matches.py
+3. Run source_match_players.py
+
+4. Run process_matches.py
+5. Run process_match_players.py
+
+6. Run prepare_trainset.py
+
 ## Feature Idea
 
 Some features I can think of
