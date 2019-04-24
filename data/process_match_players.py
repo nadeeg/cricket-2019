@@ -6,8 +6,10 @@ import os
 # %%
 df = pandas.read_csv('files/match_players.txt', '|')
 
+compiled = re.compile(r'(.*)/(.*)/(.*)')
+
 for row in df.itertuples():
-    df.at[row.Index, 'DATE'] = re.sub(r'(.*)/(.*)/(.*)', r'\3-\2-\1', row.DATE)
+    df.at[row.Index, 'DATE'] = compiled.sub(r'\3-\2-\1', row.DATE)
 
 # %%
 dd = dict(tuple(df.groupby(['DATE', 'COUNTRIES','GROUND'])))

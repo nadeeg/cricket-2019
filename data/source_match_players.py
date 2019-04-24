@@ -42,7 +42,8 @@ for href in href_all:
 def is_aborted(soup):
     td = soup.select_one('body > table:nth-child(2) > tr:nth-child(1) > td > table > tr:nth-child(5) > td.TextBlack8')
     return td is not None and (td.text.strip() == 'Match abandoned' or\
-                               td.text.strip() == 'Match cancelled')
+                               td.text.strip() == 'Match cancelled' or\
+                               td.text.strip() == 'No result')
 
 def is_conceded(soup):
     td = soup.select_one('body > table:nth-child(2) > tr:nth-child(1) > td > table > tr:nth-child(5) > td.TextBlack8')
@@ -67,7 +68,7 @@ for info in match_info:
     print(parent_href)
     print(href)
     
-    page = requests.get('http://www.howstat.com/cricket/Statistics/Matches/MatchScorecard_ODI.asp?MatchCode=0049&Print=Y')
+    page = requests.get(href)
     
     soup = BeautifulSoup(page.content, 'html.parser')
     
@@ -132,7 +133,6 @@ for info in match_info:
     
     if len(dt) != 22:
         print('Less than 22 players, possibly scrap error')
-        break
     
     ds.extend(dt)
 
