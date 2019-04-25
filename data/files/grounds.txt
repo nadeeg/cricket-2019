@@ -1,0 +1,226 @@
+GROUND|CITY|COUNTRY
+Adelaide Oval|Adelaide|Australia
+Aga Khan Sports Club Ground|Nairobi|Kenya
+Al Amerat Cricket Ground|Al Amarat|Oman
+Albion Sports Complex|Albion, Berbice, Guyana|West Indies
+AMI Stadium|Christchurch|New Zealand
+Amini Park|Port Moresby|Papua New Guinea
+Antigua Recreation Ground|St. John's, Antigua|West Indies
+ANZ Stadium|Sydney|Australia
+Arbab Niaz Stadium|Peshawar|Pakistan
+Arnos Vale Ground|Kingstown, St. Vincent|West Indies
+Asgiriya Stadium|Kandy|Sri Lanka
+Ayub National Stadium|Quetta|Pakistan
+Bagh-e-Jinnah|Lahore|Pakistan
+Bahawal Stadium|Bahawalpur|Pakistan
+Bangabandhu National Stadium|Dhaka (Dacca)|Bangladesh
+Barabati Stadium|Cuttack|India
+Barkatullah Khan Stadium|Jodhpur|India
+Barsapara Cricket Stadium|Guwahati|India
+Basin Reserve|Wellington|New Zealand
+Bay Oval|Mount Maunganui|New Zealand
+Bayuemas Oval|Kuala Lumpur|Malaysia
+Bellerive Oval|Hobart|Australia
+Berri Oval|Berri|Australia
+Bert Sutcliffe Oval|Lincoln|New Zealand
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium|Lucknow|India
+Boland Park|Paarl|South Africa
+Bourda|Georgetown, Guyana|West Indies
+Brabourne Stadium|Mumbai|India
+Bramall Lane|Sheffield|England
+Bready Cricket Club|Bready|Ireland
+Brisbane Cricket Ground|Brisbane|Australia
+Buffalo Park|East London|South Africa
+Bugti Stadium|Quetta|Pakistan
+Bulawayo Athletic Club|Bulawayo|Zimbabwe
+Cambusdoon New Ground|Ayr|Scotland
+Captain Roop Singh Stadium|Gwalior|India
+Carisbrook|Dunedin|New Zealand
+Cazaly's Stadium|Cairns|Australia
+Central Broward Regional Park|Lauderhill, Florida|United States
+City Oval|Pietermaritzburg|South Africa
+Civil Service Cricket Club|Belfast|Ireland
+Clontarf Cricket Club Ground|Dublin|Ireland
+Cobham Oval (New)|Whangarei|New Zealand
+Colombo Cricket Club Ground|Colombo|Sri Lanka
+County Ground (Bristol)|Bristol|England
+County Ground (Chelmsford)|Chelmsford|England
+County Ground (Derby)|Derby|England
+County Ground (Hove)|Hove|England
+County Ground (Northampton)|Northampton|England
+County Ground (Southampton)|Southampton|England
+County Ground (Taunton)|Taunton|England
+Cricket, Skating & Curling Club|Toronto|Canada
+Darren Sammy National Cricket Stadium|Gros Islet, St Lucia|West Indies
+Defence Housing Authority Stadium|Karachi|Pakistan
+Devonport Oval|Devonport|Australia
+Diamond Oval|Kimberley|South Africa
+Dr YS Rajasekhara Reddy Cricket Stadium|Visakhapatnam|India
+Dubai International Cricket Stadium|Dubai|United Arab Emirates
+Eastern Oval|Ballarat|Australia
+Eden Gardens|Kolkata|India
+Eden Park|Auckland|New Zealand
+Edgbaston|Birmingham|England
+Ellis Park|Johannesburg|South Africa
+Etihad Stadium|Melbourne|Australia
+Exhibition Ground|Brisbane|Australia
+Feroz Shah Kotla|Delhi|India
+Gaddafi Stadium|Lahore|Pakistan
+Galle International Stadium|Galle|Sri Lanka
+Gandhi Sports Complex Ground|Amritsar|India
+Gandhi Stadium|Jalandhar (Jullundur)|India
+Grace Road|Leicester|England
+Grange Cricket Club|Edinburgh|Scotland
+Greater Noida Sports Complex Ground|Greater Noida|India
+Green Park|Kanpur|India
+Greenfield International Stadium|Thiruvananthapuram|India
+Gymkhana Club Ground|Nairobi|Kenya
+Gymkhana Ground|Mumbai (Bombay)|India
+Hagley Oval|Christchurch|New Zealand
+Harare Sports Club|Harare|Zimbabwe
+Harrup Park|Mackay|Australia
+Hazelaarweg|Rotterdam|Netherlands
+Headingley|Leeds|England
+Himachal Pradesh Cricket Association Stadium|Dharamsala|India
+Holkar Cricket Stadium|Indore|India
+Ibn-e-Qasim Bagh Stadium|Multan|Pakistan
+ICC Global Cricket Academy|Dubai|United Arab Emirates
+Indira Gandhi Stadium|Vijayawada|India
+Indira Priyadarshini Stadium|Visakhapatnam|India
+Iqbal Stadium|Faisalabad (Lyallpur)|Pakistan
+Jaffrey Sports Club Ground|Nairobi|Kenya
+Jawaharlal Nehru Stadium (Delhi)|New Delhi, Delhi|India
+Jinnah Stadium (Gujwranwala)|Gujwranwala|Pakistan
+Jinnah Stadium (Sialkot)|Sialkot|Pakistan
+JSCA International Stadium Complex|Ranchi|India
+Kallang Ground|Singapore|Singapore
+"KD Singh ""Babu"" Stadium"|Lucknow|India
+Keenan Stadium|Jamshedpur|India
+Kennington Oval|London|England
+Kensington Oval|Bridgetown, Barbados|West Indies
+Khan Shaheb Osman Ali Stadium|Fatullah|Bangladesh
+Kingsmead|Durban|South Africa
+Kinrara Academy Oval|Kuala Lumpur|Malaysia
+Kwekwe Sports Club|Kwekwe|Zimbabwe
+La Manga Club Bottom Ground|Cartagena|Spain
+Lal Bahadur Shastri Stadium|Hyderabad (Deccan)|India
+Lavington Sports Oval|Albury|Australia
+Lord's|London|England
+Lord's (SAF)|Durban|South Africa
+M Chinnaswamy Stadium|Bengaluru, Bangalore|India
+MA Aziz Stadium|Chittagong|Bangladesh
+MA Chidambaram Stadium|Chennai|India
+Madhavrao Scindia Cricket Ground|Rajkot|India
+Maharashtra Cricket Association Stadium|Pune|India
+Mahinda Rajapaksha International Cricket Stadium|Hambantota|Sri Lanka
+Mangaung Oval|Bloemfontein|South Africa
+Mannofield Park|Aberdeen|Scotland
+Manuka Oval|Canberra|Australia
+Maple Leaf North - West Ground|King City, Ontario|Canada
+Marrara Cricket Ground|Darwin|Australia
+McLean Park|Napier|New Zealand
+Melbourne Cricket Ground|Melbourne|Australia
+Metricon Stadium|Carrara|Australia
+Mindoo Philip Park|Castries, St. Lucia|West Indies
+Mission Road|Mong Kok,|Hong Kong
+Moin-ul-Haq Stadium|Patna|India
+Mombasa Sports Ground|Mombasa|Kenya
+Moses Mabhida Stadium|Durban|South Africa
+Moti Bagh Stadium|Vadodara (Baroda)|India
+Multan Cricket Stadium|Multan|Pakistan
+Nahar Singh Stadium|Faridabad|India
+Nairobi Club Ground|Nairobi|Kenya
+National Cricket Stadium (Grenada)|St. George's, Grenada|West Indies
+National Cricket Stadium (Tangier)|Tangier|Morocco
+National Stadium|Karachi|Pakistan
+Nehru Stadium (Chennai)|Chennai (Madras)|India
+Nehru Stadium (Guwahati)|Guwahati|India
+Nehru Stadium (Indore)|Indore|India
+Nehru Stadium (Kochi)|Kochi|India
+Nehru Stadium (Margao)|Margao|India
+Nehru Stadium (Pune)|Pune|India
+Nevill Ground|Tunbridge Wells|England
+New Road|Worcester|England
+Newlands|Cape Town|South Africa
+Niaz Stadium|Hyderabad (Sind)|Pakistan
+North Marine Road Ground|Scarborough|England
+North Tasmania Cricket Association Ground|Launceston|Australia
+Old Hararians Sports Club|Harare|Zimbabwe
+Old Trafford|Manchester|England
+Old Wanderers|Johannesburg|South Africa
+Optus Stadium|Perth|Australia
+Owen Delany Park|Taupo|New Zealand
+P Sara Oval|Colombo|Sri Lanka
+Padang Cricket Ground|Singapore|Singapore
+Pallekele International Cricket Stadium|Pallekele, Kandy|Sri Lanka
+Peshawar Club Ground|Peshawar|Pakistan
+Pindi Club Ground|Rawalpindi|Pakistan
+Providence Stadium|Providence, Guyana|West Indies
+Pukekura Park|New Plymouth|New Zealand
+Punjab Cricket Association IS Bindra Stadium|Mohali, Chandigarh|India
+Queen's Park (Old)|St. George's, Grenada|West Indies
+Queen's Park Oval|Port-Of-Spain, Trinidad|West Indies
+Queens Sports Club|Bulawayo|Zimbabwe
+Queenstown Events Centre|Queenstown|New Zealand
+R Premadasa Stadium|Colombo|Sri Lanka
+Rajiv Gandhi International Cricket Stadium|Dehra Dun|India
+Rajiv Gandhi International Stadium|Hyderabad|India
+Rangiri Dambulla International Stadium|Dambulla|Sri Lanka
+Rawalpindi Cricket Stadium|Rawalpindi|Pakistan
+Reliance Stadium|Vadodara|India
+Riverside Ground|Chester-Le-Street|England
+Ruaraka Sports Club Ground|Nairobi|Kenya
+Sabina Park|Kingston, Jamaica|West Indies
+Sardar Patel Stadium|Ahmedabad|India
+Sardar Vallabhai Patel Stadium|Ahmedabad|India
+Saurashtra Cricket Association Stadium|Khandheri, Rajkot|India
+Sawai Mansingh Stadium|Jaipur|India
+Saxton Oval|Nelson|New Zealand
+Sector 16 Stadium|Chandigarh|India
+Seddon Park|Hamilton|New Zealand
+Senwes Park|Potchefstroom|South Africa
+Shaheed Chandu Stadium|Bogra|Bangladesh
+Sharjah Cricket Stadium|Sharjah|United Arab Emirates
+Sheikh Abu Naser Stadium|Khulna|Bangladesh
+Sheikh Zayed Stadium|Abu Dhabi|United Arab Emirates
+Sheikhupura Stadium|Sheikhupura|Pakistan
+Shere Bangla National Stadium|Mirpur, Dhaka|Bangladesh
+Sher-I-Kashmir Stadium|Srinagar|India
+Simba Union Ground|Nairobi|Kenya
+Simmonds Stadium|Geelong|Australia
+Sinhalese Sports Club Ground|Colombo|Sri Lanka
+Sir Vivian Richards Stadium|North Sound, Antigua|West Indies
+Sophia Gardens|Cardiff|Wales
+Sportpark Thurlede|Schiedam|Netherlands
+Sportpark Westvliet|Voorburg|Netherlands
+Sports Stadium|Sargodha|Pakistan
+Sportspark Het Schootsveld|Deventer|Netherlands
+St George's Park|Port Elizabeth|South Africa
+St Helen's|Swansea|Wales
+St Lawrence Ground|Canterbury|England
+SuperSport Park|Centurion|South Africa
+Sydney Cricket Ground|Sydney|Australia
+Sylhet Stadium|Sylhet|Bangladesh
+Tasmania Cricket Association Ground|Hobart|Australia
+The Rose Bowl|Southampton|England
+The Village|Dublin|Ireland
+Titwood|Glasgow|Scotland
+Tony Ireland Stadium|Townsville|Australia
+Trent Bridge|Nottingham|England
+Tyronne Fernando Stadium|Moratuwa|Sri Lanka
+University Ground|Lucknow|India
+University Oval|Dunedin|New Zealand
+University Stadium|Thiruvananthapuram|India
+Vidarbha Cricket Association Ground|Nagpur|India
+Vidarbha Cricket Association Stadium|Nagpur|India
+VRA Ground|Amstelveen|Netherlands
+WACA Ground|Perth|Australia
+Wanderers Cricket Ground|Windhoek|Namibia
+Wanderers Stadium|Johannesburg|South Africa
+Wankhede Stadium|Mumbai|India
+Warner Park|Basseterre, St Kitts|West Indies
+Westpac Stadium|Wellington|New Zealand
+Willowmoore Park|Benoni|South Africa
+Windsor Park|Roseau, Dominica|West Indies
+Zafar Ali (Sahiwal) Stadium|Sahiwal|Pakistan
+Zahur Ahmed Chowdhury Stadium|Chittagong|Bangladesh
