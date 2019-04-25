@@ -1,30 +1,47 @@
-import pandas as pd
-import csv
+import pandas
+#import csv
 
 # %%
-matches = pd.read_csv('files/matches.txt', sep = '|')
-
-with open('files/grounds.csv', 'rt') as f:
-  reader = csv.reader(f)
-  data = []
-
-  for row in reader:
-      data.append(row)
-        
-grounds = pd.DataFrame(columns = data[0], data = data[1:])
+df = pandas.read_csv('files/matches.txt', '|')
+dg = pandas.read_csv('files/grounds.txt', '|')
 
 # %%
-matches['DATE'] = pd.to_datetime(matches['DATE'], format = '%d/%m/%Y')
-matches['TEAM1'] = matches['COUNTRIES'].str.split('v.').str[0]
-matches['TEAM2'] = matches['COUNTRIES'].str.split('v.').str[1]
-matches['TEAM1'] = matches['TEAM1'].str.strip()
-matches['TEAM2'] = matches['TEAM2'].str.strip()
-matches['WINNER'] = matches['RESULT'].str.split(' won by ').str[0]
-matches['MARGIN'] = matches['RESULT'].str.split(' won by ').str[1]
+df = df[df['RESULT'] != 'No result']
+df = df[df['RESULT'] != 'Match abandoned']
+df = df[df['RESULT'] != 'Match cancelled']
+df = df[~(df['RESULT'].str.contains('conceded'))]
 
 # %%
-matches = matches.merge(grounds, left_on = 'GROUND', right_on = 'Official name')
-del matches['City']
+dd = dict(tuple(dg.groupby(['GROUND'])))
 
 # %%
-matches.to_csv('files/matches_formatted.txt', sep = '|', index = False)
+i = 0
+for row in df.itertuples():
+    countries = row.COUNTRIES.split('v.')
+    c1 = countries[0].strip()
+    c2 = countries[1].strip()
+    df.at[row.Index, 'TEAM.1'] = c1
+    df.at[row.Index, 'TEAM.2'] = c2
+    
+    if row.RESULT == 'Match Tied':
+        winner = None
+        margin = 'Tied'
+    else:
+        results = row.RESULT.split(' won by ')
+        winner = results[0].strip()
+        margin = results[1].strip()
+    df.at[row.Index, 'WINNER'] = winner
+    df.at[row.Index, 'MARGIN'] = margin
+    
+    df.at[row.Index, 'CITY'] = dd[row.GROUND].iloc[0]['CITY']
+    df.at[row.Index, 'COUNTRY'] = dd[row.GROUND].iloc[0]['COUNTRY']
+
+# %%
+dh = df.reindex(columns = ['DATE', 'GROUND', 'CITY', 'COUNTRY', 'TEAM.1',\
+                           'TEAM.2', 'WINNER', 'MARGIN'])
+
+# %%
+if not os.path.exists('files'):
+    os.mkdir('files')
+
+dh.to_csv('files/matches_formatted.txt', sep = '|', index = False)
