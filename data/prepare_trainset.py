@@ -5,31 +5,16 @@ import os
 # %%
 df = pandas.read_csv('files/matches_formatted.txt', '|')
 
-dg = df.reindex(columns = ['DATE', 'TEAM1', 'TEAM2'])
+df['IS_HOST.1'] = (df['TEAM.1'] == df['COUNTRY']).astype('int')
+df['IS_HOST.2'] = (df['TEAM.2'] == df['COUNTRY']).astype('int')
 
-dg.rename(columns = { 'TEAM1': 'TEAM.1', 'TEAM2': 'TEAM.2'}, inplace = True)
+df['Y'] = (df['TEAM.1'] == df['WINNER']).astype('int')
+df.loc[df['MARGIN'] == 'Tied', 'Y'] = 0.5
 
-dg['IS_HOST.1'] = (dg['TEAM.1'] == df['Country'])
-dg['IS_HOST.2'] = (dg['TEAM.2'] == df['Country'])
-
-dg['Y'] = (dg['TEAM.1'] == df['WINNER'])
 # %%
-ds =[]
 
-for row in dg.itertuples():
-    print(row)
-    break
-
-#%%
-columns = [
-        'DATE',
-        'TEAM.1',
-        'TEAM.2',
-        'IS_HOST.1',
-        'IS_HOST.2',
-        'Y',]
-
+# %%
 if not os.path.exists('trainset'):
     os.mkdir('trainset')
 
-dg.to_csv('trainset/input.txt', sep = '|', index = False)
+df.to_csv('trainset/input.txt', sep = '|', index = False)

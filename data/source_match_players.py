@@ -7,7 +7,7 @@ import re
 from bs4 import BeautifulSoup
 
 # %%
-page = requests.get("http://www.howstat.com/cricket/Statistics/Matches/MatchListMenu.asp")
+page = requests.get('http://www.howstat.com/cricket/Statistics/Matches/MatchListMenu.asp')
 
 # %%
 soup = BeautifulSoup(page.content, 'html.parser')
