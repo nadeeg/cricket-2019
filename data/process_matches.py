@@ -1,5 +1,7 @@
+# %%
 import pandas
-#import csv
+import re
+import os
 
 # %%
 df = pandas.read_csv('files/matches.txt', '|')
@@ -10,13 +12,18 @@ df = df[df['RESULT'] != 'No result']
 df = df[df['RESULT'] != 'Match abandoned']
 df = df[df['RESULT'] != 'Match cancelled']
 df = df[~(df['RESULT'].str.contains('conceded'))]
+df = df[~(df['RESULT'].str.endswith('won by default'))]
+df = df[~(df['RESULT'].str.endswith('won by walkover'))]
 
 # %%
 dd = dict(tuple(dg.groupby(['GROUND'])))
 
 # %%
-i = 0
+compiled = re.compile(r'(.*)/(.*)/(.*)')
+
 for row in df.itertuples():
+    df.at[row.Index, 'DATE'] = compiled.sub(r'\3-\2-\1', row.DATE)
+    
     countries = row.COUNTRIES.split('v.')
     c1 = countries[0].strip()
     c2 = countries[1].strip()
@@ -37,8 +44,8 @@ for row in df.itertuples():
     df.at[row.Index, 'COUNTRY'] = dd[row.GROUND].iloc[0]['COUNTRY']
 
 # %%
-dh = df.reindex(columns = ['DATE', 'GROUND', 'CITY', 'COUNTRY', 'TEAM.1',\
-                           'TEAM.2', 'WINNER', 'MARGIN'])
+dh = df.reindex(columns = ['DATE', 'COUNTRIES', 'GROUND', 'CITY', 'COUNTRY',\
+                           'TEAM.1', 'TEAM.2', 'WINNER', 'MARGIN'])
 
 # %%
 if not os.path.exists('files'):
