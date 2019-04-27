@@ -13,6 +13,7 @@ soup = BeautifulSoup(page.content, 'html.parser')
 
 # %%
 a_all = soup.select('#odis > table > tr > td > table > tr > td > a.LinkOff')
+a_all = [a for a in a_all if not a.text.strip().endswith('World Cup')]
 href_all = ['http://www.howstat.com/cricket/Statistics/Matches/' + a['href'] for a in a_all]
 
 # %%
